@@ -1,0 +1,7 @@
+---
+Name: comments_add_recaptcha
+---
+
+CommentingController:
+  extensions:
+    - CommentsFormAddRecaptcha
