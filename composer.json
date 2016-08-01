@@ -2,7 +2,7 @@
     "name": "sunnysideup/comments_add_recaptcha",
     "type": "silverstripe-module",
     "description": "Adds Captcha to the comments module",
-    "keywords": ["e-commerce", "shop", "ecommerce", "geoip", "cloud flare", "country", "countries"],
+    "keywords": ["blog", "captcha", "recaptcha", "comment", "comments", "spam", "security"],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors":[
         {
