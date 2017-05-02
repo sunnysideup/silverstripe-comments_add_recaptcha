@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API Docs](http://docs.ssmods.com/sunnysideup/comments_add_recaptcha)
+ * [API Docs](http://docs.ssmods.com/sunnysideup/comments_add_recaptcha/classes.xhtml)
 
 ## Requirements
 
